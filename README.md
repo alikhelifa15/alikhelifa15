@@ -53,18 +53,6 @@ Full Stack Developer specializing in **React**, **React Native**, **Node.js** an
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alikhelifa15&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhelifa15&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikhelifa15&theme=midnight-purple&hide_border=true&background=0d1117" />
-</div>
-
-<br/>
 
 ## Let's connect
 
